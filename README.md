@@ -4,7 +4,6 @@
  API: 
  http://gisapi-web-staging-1636833739.eu-west-1.elb.amazonaws.com/swagger#!/
  
- check the index2.php here: 
- http://aisec.epizy.com
- 
+ check the table here: 
+http://aisec.epizy.com/index2.php 
  
